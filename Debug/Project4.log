@@ -1,0 +1,9 @@
+﻿  common.cpp
+  RegistryPersistence.cpp
+  main.cpp
+  RegUAC.cpp
+  elevationTech.cpp
+  StartUpPersistence.cpp
+  Generating Code...
+  LINK : C:\Users\Sara Srivastava\Desktop\ekta_work\VSProjects\Project4\Debug\Project4.exe not found or not built by the last incremental link; performing full link
+  Project4.vcxproj -> C:\Users\Sara Srivastava\Desktop\ekta_work\VSProjects\Project4\Debug\Project4.exe
